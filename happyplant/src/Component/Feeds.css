@@ -1,0 +1,86 @@
+.profileImg {
+  border-radius: 42%;
+  margin-left: 80px;
+  width: 170px;
+}
+
+.flexContainer {
+  display: flex;
+  margin: auto;
+  margin-top: 90px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.userIntro {
+  margin-left: 17px;
+  text-align: left;
+}
+
+
+.userIntro div{
+color:grey;
+font-size: 20px;
+}
+
+.displayPic {
+  display: flex;
+  max-width: 1500px;
+  margin: auto;
+  margin-top: 110px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+
+.displayPic > * {
+  flex: 0 0 30%;
+}
+
+.postField {
+  display: flex;
+  margin: auto;
+  height: 100%;
+  justify-content: center;
+}
+
+.imgArea {
+  padding: 50px;
+  height: 400px
+}
+
+.textArea {
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
+
+.boxWidth {
+  width: 500px;
+  margin-bottom: 50px;
+}
+
+.formStyle {
+  background-color: white;
+  border-radius: 60px;
+  background-image: url('../images/pf-misctexture01-beer-000_5.jpg');
+
+}
+
+h3 {
+  padding-top: 20px;
+}
+
+.imgUploadInput {
+  width: 60%;
+}
+
+.saveButton {
+  padding: 10px;
+}
+
+.savePost {
+  padding:1.25rem
+}

@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: linear-gradient( rgba(240, 240, 240, 0.26), rgba(158, 204, 204, 0.24)), url('background.jpg');
+    font-family: 'Lora', serif;
+    background-position: center;
+    text-align: center;
+  }
+
